@@ -1,2 +1,29 @@
-# Snazzy-terminal
-An elegant Terminal theme with bright colors
+# Snazzy for Terminal
+
+Color from [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy),an elegant Hyper theme with bright colors.
+Adjust selection color and bg color.
+
+![](https://github.com/sindresorhus/hyper-snazzy/blob/master/screenshot.png)
+
+## Install
+
+- Right-click [`Snazzy.terminal`](https://raw.githubusercontent.com/likfe/Snazzy-terminal/master/Snazzy.terminal) and choose `Save Link As…`.
+- Double-click the downloaded file.
+- Go to `Preferences…`, then `Profiles`, click `Snazzy`, and then click the `Default` button.
+
+
+## Tip
+
+To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Menlo font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
+
+
+## Related
+
+- [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Hyper version
+- [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
+- [vscode-snazzy](https://github.com/Tyriar/vscode-snazzy) - VS Code version
+- [emacs-snazzy](https://github.com/weijiangan/emacs-snazzy) - Emacs version
+
+## License
+
+MIT
