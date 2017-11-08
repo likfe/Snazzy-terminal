@@ -1,5 +1,7 @@
 # Snazzy for Terminal
 
+[中文说明](README_zh.md)
+
 Color from [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy),an elegant Hyper theme with bright colors.
 Adjust selection color and bg color.
 
